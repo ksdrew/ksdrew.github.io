@@ -12,7 +12,7 @@ title: Publications
 Proteome-wide dataset supporting the study of ancient metazoan macromolecular complexes
 </a>
 <br>
-Cuihong Wan, Blake Borgeson, Sadhna Phanse, Fan Tu, <strong>Kevin Drew</strong>, Greg Clark, Xuejian Xiong, Olga Kagan, Julian Kwan, Alexandr Berzginov, Kyle Chessman, Swati Pal, Graham Cromar, Ophelia Papoulas, Zuyao Ni, Daniel R Boutz, Snejana Stoilova, Pierre C Havugimana, Xinghua Guo, Ramy H Malty, Mihail Sarov, Jack Greenblatt, Mohan Babu, Brent Derry, Elisabeth Tillier, John B Wallingford, John Parkinson, Edward M Marcotte, Andrew Emili
+Sadhna Phanse, Cuihong Wan, Blake Borgeson, Fan Tu, <strong>Kevin Drew</strong>, Greg Clark, Xuejian Xiong, Olga Kagan, Julian Kwan, Alexandr Bezginov, Kyle Chessman, Swati Pal, Graham Cromar, Ophelia Papoulas, Zuyao Ni, Daniel R. Boutz, Snejana Stoilova, Pierre C. Havugimana, Xinghua Guo, Ramy H. Malty, Mihail Sarov, Jack Greenblatt, Mohan Babu, W. Brent Derry, Elisabeth R. Tillier, John B. Wallingford, f, John Parkinson, Edward M. Marcotte, Andrew Emili
 <br>
 Data in Brief, 2015
 </p>
