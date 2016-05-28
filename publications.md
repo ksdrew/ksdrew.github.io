@@ -42,7 +42,7 @@ Peptide Science, 2014
 Rational design of topographical helix mimics as potent inhibitors of protein–protein interactions
 </a>
 <br>
-Brooke Bullock Lao*, <strong>Kevin Drew*</strong>, Danielle A Guarracino, Thomas F Brewer, Daniel W Heindel, Richard Bonneau, Paramjit S Arora (\* shared first author)
+Brooke Bullock Lao*, <strong>Kevin Drew*</strong>, Danielle A Guarracino, Thomas F Brewer, Daniel W Heindel, Richard Bonneau, Paramjit S Arora (* shared first author)
 <br>
 Journal of the American Chemical Society, 2014
 </p>
