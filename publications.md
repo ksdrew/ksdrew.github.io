@@ -8,6 +8,17 @@ title: Publications
 </p>
 
 <p>
+<a href="http://www.nature.com/ng/journal/v48/n6/abs/ng.3558.html" target='_blank'>
+The ciliopathy-associated CPLANE proteins direct basal body recruitment of intraflagellar transport machinery.
+</a>
+<br>
+Michinori Toriyama, Chanjae Lee, S. Paige Taylor, Ivan Duran, Daniel H. Cohn , Ange-Line Bruel, Jacqueline M. Tabler, <strong>Kevin Drew</strong>, Marcus R.  Kelley, Sukyoung Kim, Tae Joo Park, Daniella Braun, Ghislaine Pierquin, Armand Biver, Kerstin Wagner, Anne Malfroot, Inusha Panigrahi, Brunella Franco, Hadeel Adel Al-lami, Yvonne Yeung, Yeon Ja Choi, University of Washington Center for Mendelian Genomics, Yannis Duffourd, L Faivre, JB Rivière, Jiang Chen, Karen J. Liu, Edward M. Marcotte, Friedhelm Hildebrandt, Christel Thauvin-Robinet, Deborah Krakow, Peter K. Jackson, and John B.  Wallingford  
+<br>
+Nature Genetics, 2016
+</p>
+
+
+<p>
 <a href="http://www.sciencedirect.com/science/article/pii/S2352340915003595" target='_blank'>
 Proteome-wide dataset supporting the study of ancient metazoan macromolecular complexes
 </a>
@@ -148,6 +159,17 @@ BMC genomics, 2009
 </p>
 
 <p>
+<a href="https://www.safaribooksonline.com/library/view/structural-bioinformatics-2nd/9781118210567/9781118210567_c32.xhtml" target='_blank'>
+De novo protein structure prediction: methods and application.
+</a>
+<br>
+<strong>Kevin Drew</strong>, Dylan Chivian and Richard Bonneau
+<br>
+Structural Bioinformatics 2nd Edition. 2009 John Wiley & Sons, Inc (Book Chapter) 
+</p>
+
+
+<p>
 <a href="http://www.sciencedirect.com/science/article/pii/S0092867408008866" target='_blank'>
 A protein domain-based interactome network for C. elegans early embryogenesis
 </a>
@@ -177,6 +199,15 @@ Iliana Avila-Campillo*, <strong>Kevin Drew*</strong>, John Lin, David J Reiss, R
 Bioinformatics, 2007
 </p>
 
+<p>
+<a href="" target='_blank'>
+Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiments.
+</a>
+<br>
+<strong>Drew, K</strong>
+<br>
+Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2005.
+</p>
 
 [Google Scholar](https://scholar.google.com/citations?user=zJ8L0GcAAAAJ&hl=en)
 
