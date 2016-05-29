@@ -4,7 +4,7 @@ title: Research
 ---
 
 <p class="message">
-	<h3>Protein Complex Discovery</h3>
+	<h>Protein Complex Discovery</h>
 </p>
 <img src="{{ site.url }}/images/complex_network.png" width="200" height="200" />
 
