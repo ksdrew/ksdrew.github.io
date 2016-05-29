@@ -3,10 +3,6 @@ layout: page
 title: Publications
 ---
 
-<p class="message">
-	Kevin Drew PhD
-</p>
-
 <p>
 <a href="http://www.nature.com/ng/journal/v48/n6/abs/ng.3558.html" target='_blank'>
 The ciliopathy-associated CPLANE proteins direct basal body recruitment of intraflagellar transport machinery.
