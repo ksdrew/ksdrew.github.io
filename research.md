@@ -15,7 +15,7 @@ title: Research
 	Protein Interaction Inhibition
 </p>
 
-![Peptidomimetic]({{ site.url }}/images/ja-2014-02310r_0005.jpeg)
+![Peptidomimetic]({{ site.url }}/images/ja-2014-02310r_0005.jpeg =250x)
 [Bullock Lao, Drew et al. JACS 2014]
 
 
