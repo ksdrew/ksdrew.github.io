@@ -12,12 +12,13 @@ title: Research
 	Protein Interaction / Complex Structural Modeling
 </p>
 <img src="{{ site.url }}/images/proteasome_correlation.png" height="200" />
+(Wan, Borgeson et al. Nature 2015)
 
 <p class="message">
 	Protein Interaction Inhibition
 </p>
 
 <img src="{{ site.url }}/images/ja-2014-02310r_0005.jpeg" width="200" height="150" />
-[Bullock Lao, Drew et al. JACS 2014]
+(Bullock Lao, Drew et al. JACS 2014)
 
 
