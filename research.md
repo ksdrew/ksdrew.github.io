@@ -11,6 +11,7 @@ title: Research
 <p class="message">
 	Protein Interaction / Complex Structural Modeling
 </p>
+<img src="{{ site.url }}/images/proteasome_correlation.png" height="200" />
 
 <p class="message">
 	Protein Interaction Inhibition
