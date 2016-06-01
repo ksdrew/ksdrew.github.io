@@ -196,8 +196,8 @@ Bioinformatics, 2007
 </p>
 
 <p>
-<a href="" target='_blank'>
-Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiments.
+<a href="https://newtraell.cs.uchicago.edu/files/tr_authentic/TR-2005-12.pdf" target='_blank'>
+Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiments. (pdf)
 </a>
 <br>
 <strong>Drew, K</strong>
