@@ -59,7 +59,7 @@ Journal of the American Chemical Society, 2014
 Extending RosettaDock with water, sugar, and pH for prediction of complex structures and affinities for CAPRI rounds 20–27
 </a>
 <br>
-Krishna Praneeth Kilambi, Michael S Pacella, Jianqing Xu, Jason W Labonte, Justin R Porter, Pravin Muthu, Kevin Drew, Daisuke Kuroda, Ora Schueler‐Furman, Richard Bonneau, Jeffrey J Gray
+Krishna Praneeth Kilambi, Michael S Pacella, Jianqing Xu, Jason W Labonte, Justin R Porter, Pravin Muthu, <strong>Kevin Drew</strong>, Daisuke Kuroda, Ora Schueler‐Furman, Richard Bonneau, Jeffrey J Gray
 <br>
 Proteins: Structure, Function, and Bioinformatics, 2013
 </p>
