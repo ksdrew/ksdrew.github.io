@@ -4,9 +4,13 @@ title: Publications
 ---
 
 <p>
-<a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
+<!--
+<a href="" target='_blank'>
+-->
 Identifying direct contacts between protein complex subunits from their conditional dependence in proteomics datasets.
+<!--
 </a>
+-->
 <br>
 <strong>Kevin Drew</strong>, Christian L. Müller, Richard Bonneau, Edward M. Marcotte
 <br>
@@ -22,6 +26,17 @@ Integration of over 9,000 mass spectrometry experiments builds a global map of h
 <br>
 Molecular Systems Biology, 2017 
 </p>
+
+<p>
+<a href="http://www.biorxiv.org/content/early/2017/01/11/099762" target='_blank'>
+An Adaptive Geometric Search Algorithm for Macromolecular Scaffold Selection
+</a>
+<br>
+Tian Jiang, Douglas Renfrew, <strong>Kevin Drew</strong>, Noah Youngs, Glenn Butterfoss, Dennis Shasha, Richard Bonneau
+<br>
+BioRxiv, 2017 
+</p>
+
 
 
 <p>
