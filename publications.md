@@ -4,6 +4,27 @@ title: Publications
 ---
 
 <p>
+<a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
+Identifying direct contacts between protein complex subunits from their conditional dependence in proteomics datasets.
+</a>
+<br>
+<strong>Kevin Drew</strong>, Christian L. Müller, Richard Bonneau, Edward M. Marcotte
+<br>
+PLOS Computational Biology, (Accepted)
+</p>
+
+<p>
+<a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
+Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes
+</a>
+<br>
+<strong>Kevin Drew</strong>, Chanjae Lee, Ryan L Huizar, Fan Tu, Blake Borgeson, Claire D McWhite, Yun Ma, John B Wallingford, Edward M Marcotte
+<br>
+Molecular Systems Biology, 2017 
+</p>
+
+
+<p>
 <a href="http://www.nature.com/ng/journal/v48/n6/abs/ng.3558.html" target='_blank'>
 The ciliopathy-associated CPLANE proteins direct basal body recruitment of intraflagellar transport machinery.
 </a>
