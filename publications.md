@@ -20,12 +20,12 @@ PLOS Computational Biology, (Accepted)
 <p>
 <table>
 <tr>
-<td width="20%">
+<td width="15%">
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 <img src="{{ site.url }}/images/MSB2017_cover_thumbnail.jpg" width="100" />
 </a>
 </td>
-<td width="80%" valign="middle">
+<td width="85%" valign="middle">
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes
 </a>
