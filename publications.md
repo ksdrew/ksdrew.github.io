@@ -33,13 +33,11 @@ Integration of over 9,000 mass spectrometry experiments builds a global map of h
 </tr>
 <tr>
 <td colspan="2">
-<br>
 <strong>Kevin Drew</strong>, Chanjae Lee, Ryan L Huizar, Fan Tu, Blake Borgeson, Claire D McWhite, Yun Ma, John B Wallingford, Edward M Marcotte
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<br>
 Molecular Systems Biology, 2017 
 </td>
 </tr>
