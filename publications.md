@@ -4,13 +4,9 @@ title: Publications
 ---
 
 <p>
-<!--
-<a href="" target='_blank'>
--->
+<a href="http://journals.plos.org/ploscompbiol/" target='_blank'>
 Identifying direct contacts between protein complex subunits from their conditional dependence in proteomics datasets.
-<!--
 </a>
--->
 <br>
 <strong>Kevin Drew</strong>, Christian L. Müller, Richard Bonneau, Edward M. Marcotte
 <br>
@@ -18,16 +14,17 @@ PLOS Computational Biology, (Accepted)
 </p>
 
 <p>
-|<a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
-<img src="{{ site.url }}/images/MSB2017_cover_thumbnail.jpg" width="100" />
-</a>|
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes
 </a>
 <br>
 <strong>Kevin Drew</strong>, Chanjae Lee, Ryan L Huizar, Fan Tu, Blake Borgeson, Claire D McWhite, Yun Ma, John B Wallingford, Edward M Marcotte
 <br>
-Molecular Systems Biology, 2017 |
+Molecular Systems Biology, 2017 
+<br>
+<a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
+<img src="{{ site.url }}/images/MSB2017_cover_thumbnail.jpg" width="100" />
+</a>
 </p>
 
 <p>
