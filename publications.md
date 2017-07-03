@@ -20,7 +20,7 @@ PLOS Computational Biology, (Accepted)
 <p>
 <table>
 <tr>
-<td width="20%">
+<td width="20%" valign="bottom">
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 <img src="{{ site.url }}/images/MSB2017_cover_thumbnail.jpg" width="100" />
 </a>
