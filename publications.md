@@ -18,28 +18,15 @@ PLOS Computational Biology, (Accepted)
 </p>
 
 <p>
-<table>
-<tr>
-<td>
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 <img src="{{ site.url }}/images/MSB2017_cover_thumbnail.jpg" width="100" />
 </a>
+<br>
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes
 </a>
-</td>
-</tr>
-<tr>
-<td colspan="2">
 <strong>Kevin Drew</strong>, Chanjae Lee, Ryan L Huizar, Fan Tu, Blake Borgeson, Claire D McWhite, Yun Ma, John B Wallingford, Edward M Marcotte
-</td>
-</tr>
-<tr>
-<td colspan="2">
 Molecular Systems Biology, 2017 
-</td>
-</tr>
-</table>
 </p>
 
 <p>
