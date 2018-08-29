@@ -3,7 +3,11 @@ layout: page
 title: Publications
 ---
 
-<h3>Lead</h3>
+<a href="#Lead">Lead</a>
+<a href="#Supporting">Supporting</a>
+<p>
+
+<h3 id="Lead"><u>Lead</u></h3>
 
 <p>
 <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005625" target='_blank'>
@@ -90,7 +94,7 @@ Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiment
 Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2005.
 </p>
 
-<h3>Supporting</h3>
+<h3 id="Supporting"><u>Supporting</u></h3>
 
 <p>
 <a href="https://www.cell.com/cell-reports/abstract/S2211-1247(18)30917-3" target='_blank'>
