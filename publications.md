@@ -29,6 +29,67 @@ Molecular Systems Biology, 2017
 </a>
 </p>
 
+<p>
+<a href="http://pubs.acs.org/doi/full/10.1021/ja502310r" target='_blank'>
+Rational design of topographical helix mimics as potent inhibitors of protein–protein interactions
+</a>
+<br>
+Brooke Bullock Lao*, <strong>Kevin Drew*</strong>, Danielle A Guarracino, Thomas F Brewer, Daniel W Heindel, Richard Bonneau, Paramjit S Arora (* shared first author)
+<br>
+Journal of the American Chemical Society, 2014
+</p>
+
+<p>
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067051" target='_blank'>
+Adding diverse noncanonical backbones to rosetta: enabling peptidomimetic design
+</a>
+<br>
+<strong>Kevin Drew*</strong>, P Douglas Renfrew*, Timothy W Craven, Glenn L Butterfoss, Fang-Chieh Chou, Sergey Lyskov, Brooke N Bullock, Andrew Watkins, Jason W Labonte, Michael Pacella, Krishna Praneeth Kilambi, Andrew Leaver-Fay, Brian Kuhlman, Jeffrey J Gray, Philip Bradley, Kent Kirshenbaum, Paramjit S Arora, Rhiju Das, Richard Bonneau (*shared first author)
+<br>
+PLoS One, 2013
+</p>
+
+<p>
+<a href="http://genome.cshlp.org/content/21/11/1981.full.html" target='_blank'>
+The Proteome Folding Project: proteome-scale prediction of structure and function
+</a>
+<br>
+<strong>Kevin Drew</strong>, Patrick Winters, Glenn L Butterfoss, Viktors Berstis, Keith Uplinger, Jonathan Armstrong, Michael Riffle, Erik Schweighofer, Bill Bovermann, David R Goodlett, Trisha N Davis, Dennis Shasha, Lars Malmström, Richard Bonneau
+<br>
+Genome research, 2011
+</p>
+
+<p>
+<a href="https://www.safaribooksonline.com/library/view/structural-bioinformatics-2nd/9781118210567/9781118210567_c32.xhtml" target='_blank'>
+De novo protein structure prediction: methods and application.
+</a>
+<br>
+<strong>Kevin Drew</strong>, Dylan Chivian and Richard Bonneau
+<br>
+Structural Bioinformatics 2nd Edition. 2009 John Wiley & Sons, Inc (Book Chapter) 
+</p>
+
+<p>
+<a href="http://bioinformatics.oxfordjournals.org/content/23/3/392.long" target='_blank'>
+BioNetBuilder: automatic integration of biological networks
+</a>
+<br>
+Iliana Avila-Campillo*, <strong>Kevin Drew*</strong>, John Lin, David J Reiss, Richard Bonneau (* shared first author)
+<br>
+Bioinformatics, 2007
+</p>
+
+
+<p>
+<a href="https://newtraell.cs.uchicago.edu/files/tr_authentic/TR-2005-12.pdf" target='_blank'>
+Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiments. (pdf)
+</a>
+<br>
+<strong>Drew, K</strong>
+<br>
+Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2005.
+</p>
+
 <h3>Supporting</h3>
 
 <p>
@@ -105,16 +166,6 @@ Peptide Science, 2014
 </p>
 
 <p>
-<a href="http://pubs.acs.org/doi/full/10.1021/ja502310r" target='_blank'>
-Rational design of topographical helix mimics as potent inhibitors of protein–protein interactions
-</a>
-<br>
-Brooke Bullock Lao*, <strong>Kevin Drew*</strong>, Danielle A Guarracino, Thomas F Brewer, Daniel W Heindel, Richard Bonneau, Paramjit S Arora (* shared first author)
-<br>
-Journal of the American Chemical Society, 2014
-</p>
-
-<p>
 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4037910/" target='_blank'>
 Extending RosettaDock with water, sugar, and pH for prediction of complex structures and affinities for CAPRI rounds 20–27
 </a>
@@ -122,16 +173,6 @@ Extending RosettaDock with water, sugar, and pH for prediction of complex struct
 Krishna Praneeth Kilambi, Michael S Pacella, Jianqing Xu, Jason W Labonte, Justin R Porter, Pravin Muthu, <strong>Kevin Drew</strong>, Daisuke Kuroda, Ora Schueler‐Furman, Richard Bonneau, Jeffrey J Gray
 <br>
 Proteins: Structure, Function, and Bioinformatics, 2013
-</p>
-
-<p>
-<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067051" target='_blank'>
-Adding diverse noncanonical backbones to rosetta: enabling peptidomimetic design
-</a>
-<br>
-<strong>Kevin Drew*</strong>, P Douglas Renfrew*, Timothy W Craven, Glenn L Butterfoss, Fang-Chieh Chou, Sergey Lyskov, Brooke N Bullock, Andrew Watkins, Jason W Labonte, Michael Pacella, Krishna Praneeth Kilambi, Andrew Leaver-Fay, Brian Kuhlman, Jeffrey J Gray, Philip Bradley, Kent Kirshenbaum, Paramjit S Arora, Rhiju Das, Richard Bonneau (*shared first author)
-<br>
-PLoS One, 2013
 </p>
 
 <p>
@@ -175,16 +216,6 @@ Genome biology and evolution, 2012
 </p>
 
 <p>
-<a href="http://genome.cshlp.org/content/21/11/1981.full.html" target='_blank'>
-The Proteome Folding Project: proteome-scale prediction of structure and function
-</a>
-<br>
-<strong>Kevin Drew</strong>, Patrick Winters, Glenn L Butterfoss, Viktors Berstis, Keith Uplinger, Jonathan Armstrong, Michael Riffle, Erik Schweighofer, Bill Bovermann, David R Goodlett, Trisha N Davis, Dennis Shasha, Lars Malmström, Richard Bonneau
-<br>
-Genome research, 2011
-</p>
-
-<p>
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023947" target='_blank'>
 Rational design of temperature-sensitive alleles using computational structure prediction
 </a>
@@ -214,16 +245,6 @@ Jay H Konieczka, <strong>Kevin Drew</strong>, Alex Pine, Kevin Belasco, Sean Dav
 BMC genomics, 2009
 </p>
 
-<p>
-<a href="https://www.safaribooksonline.com/library/view/structural-bioinformatics-2nd/9781118210567/9781118210567_c32.xhtml" target='_blank'>
-De novo protein structure prediction: methods and application.
-</a>
-<br>
-<strong>Kevin Drew</strong>, Dylan Chivian and Richard Bonneau
-<br>
-Structural Bioinformatics 2nd Edition. 2009 John Wiley & Sons, Inc (Book Chapter) 
-</p>
-
 
 <p>
 <a href="http://www.sciencedirect.com/science/article/pii/S0092867408008866" target='_blank'>
@@ -243,26 +264,6 @@ Investigating quantitation of phosphorylation using MALDI‐TOF mass spectrometr
 Laurie Parker, Aaron Engel‐Hall, <strong>Kevin Drew</strong>, George Steinhardt, Donald L Helseth Jr, David Jabon, Timothy McMurry, David S Angulo, Stephen J Kron
 <br>
 Journal of mass spectrometry, 2008
-</p>
-
-<p>
-<a href="http://bioinformatics.oxfordjournals.org/content/23/3/392.long" target='_blank'>
-BioNetBuilder: automatic integration of biological networks
-</a>
-<br>
-Iliana Avila-Campillo*, <strong>Kevin Drew*</strong>, John Lin, David J Reiss, Richard Bonneau (* shared first author)
-<br>
-Bioinformatics, 2007
-</p>
-
-<p>
-<a href="https://newtraell.cs.uchicago.edu/files/tr_authentic/TR-2005-12.pdf" target='_blank'>
-Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiments. (pdf)
-</a>
-<br>
-<strong>Drew, K</strong>
-<br>
-Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2005.
 </p>
 
 [Google Scholar](https://scholar.google.com/citations?user=zJ8L0GcAAAAJ&hl=en)
