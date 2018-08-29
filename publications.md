@@ -4,6 +4,7 @@ title: Publications
 ---
 
 <a href="#Lead">Lead</a>
+<br>
 <a href="#Supporting">Supporting</a>
 <p>
 
