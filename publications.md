@@ -3,14 +3,16 @@ layout: page
 title: Publications
 ---
 
+<h3>Lead</h3>
+
 <p>
-<a href="http://journals.plos.org/ploscompbiol/" target='_blank'>
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005625" target='_blank'>
 Identifying direct contacts between protein complex subunits from their conditional dependence in proteomics datasets.
 </a>
 <br>
 <strong>Kevin Drew</strong>, Christian L. Müller, Richard Bonneau, Edward M. Marcotte
 <br>
-PLOS Computational Biology, (Accepted)
+PLOS Computational Biology, 2017
 </p>
 
 <p>
@@ -25,6 +27,28 @@ Molecular Systems Biology, 2017
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 <img src="{{ site.url }}/images/MSB2017_cover_thumbnail.jpg" width="100" />
 </a>
+</p>
+
+<h3>Supporting</h3>
+
+<p>
+<a href="https://www.cell.com/cell-reports/abstract/S2211-1247(18)30917-3" target='_blank'>
+Classification of Single Particles from Human Cell Extract Reveals Distinct Structures
+</a>
+<br>
+Eric J. Verbeke, Anna L. Mallam, <strong>Kevin Drew</strong>, Edward M. Marcotte, David W. Taylor
+<br>
+Cell Reports, 2018
+</p>
+
+<p>
+<a href="https://www.biorxiv.org/content/early/2017/11/03/213793" target='_blank'>
+A phase separated organelle at the root of motile ciliopathy
+</a>
+<br>
+Ryan Huizar, Chanjae Lee, Alexander Boulgakov, Amjad Horani, Fan Tu, <strong>Kevin Drew</strong>, Edward Marcotte, Steven Brody, John Wallingford
+<br>
+BioRxiv, 2017 
 </p>
 
 <p>
