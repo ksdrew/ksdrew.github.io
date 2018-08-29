@@ -271,5 +271,5 @@ Laurie Parker, Aaron Engel‐Hall, <strong>Kevin Drew</strong>, George Steinhard
 Journal of mass spectrometry, 2008
 </p>
 
-[Google Scholar](https://scholar.google.com/citations?user=zJ8L0GcAAAAJ&hl=en)
+<a href="https://scholar.google.com/citations?user=zJ8L0GcAAAAJ&hl=en">Google Scholar</a>
 
