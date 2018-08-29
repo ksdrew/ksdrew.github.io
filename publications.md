@@ -56,7 +56,7 @@ The Proteome Folding Project: proteome-scale prediction of structure and functio
 <br>
 <strong>Kevin Drew</strong>, Patrick Winters, Glenn L Butterfoss, Viktors Berstis, Keith Uplinger, Jonathan Armstrong, Michael Riffle, Erik Schweighofer, Bill Bovermann, David R Goodlett, Trisha N Davis, Dennis Shasha, Lars Malmström, Richard Bonneau
 <br>
-Genome research, 2011
+Genome Research, 2011
 </p>
 
 <p>
