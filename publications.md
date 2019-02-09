@@ -15,7 +15,7 @@ title: Publications
 Systematic discovery of endogenous human ribonucleoprotein complexes
 </a>
 <br>
-Anna Mallam, Wisath Sae-Lee, Jeffrey M. Schaub, Fan Tu, Anna Battenhouse, Yu Jin Jang, Jonghwan Kim, Ilya J. Finkelstein, Edward M. Marcotte, <strong>Kevin Drew</strong>
+Anna Mallam*, Wisath Sae-Lee, Jeffrey M. Schaub, Fan Tu, Anna Battenhouse, Yu Jin Jang, Jonghwan Kim, Ilya J. Finkelstein, Edward M. Marcotte, <strong>Kevin Drew*</strong> (* equal contribution)
 <br>
 BioRxiv 2018
 </p>
