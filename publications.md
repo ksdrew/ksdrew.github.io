@@ -11,6 +11,16 @@ title: Publications
 <h3 id="Lead"><u>Lead</u></h3>
 
 <p>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2018/11/27/480061.full.pdf" target='_blank'>
+Systematic discovery of endogenous human ribonucleoprotein complexes
+</a>
+<br>
+Anna Mallam, Wisath Sae-Lee, Jeffrey M. Schaub, Fan Tu, Anna Battenhouse, Yu Jin Jang, Jonghwan Kim, Ilya J. Finkelstein, Edward M. Marcotte, <strong>Kevin Drew</strong>
+<br>
+BioRxiv 2018
+</p>
+
+<p>
 <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005625" target='_blank'>
 Identifying direct contacts between protein complex subunits from their conditional dependence in proteomics datasets.
 </a>
@@ -108,6 +118,18 @@ Cell Reports, 2018
 </p>
 
 <p>
+<a href="https://academic.oup.com/peds/advance-article/doi/10.1093/protein/gzy028/5165360" target='_blank'>
+An Adaptive Geometric Search Algorithm for Macromolecular Scaffold Selection
+</a>
+<br>
+Tian Jiang, Douglas Renfrew, <strong>Kevin Drew</strong>, Noah Youngs, Glenn Butterfoss, Dennis Shasha, Richard Bonneau
+<br>
+Protein Engineering, Design and Selection, 2018 
+</p>
+
+
+
+<p>
 <a href="https://www.biorxiv.org/content/early/2017/11/03/213793" target='_blank'>
 A phase separated organelle at the root of motile ciliopathy
 </a>
@@ -116,17 +138,6 @@ Ryan Huizar, Chanjae Lee, Alexander Boulgakov, Amjad Horani, Fan Tu, <strong>Kev
 <br>
 BioRxiv, 2017 
 </p>
-
-<p>
-<a href="http://www.biorxiv.org/content/early/2017/01/11/099762" target='_blank'>
-An Adaptive Geometric Search Algorithm for Macromolecular Scaffold Selection
-</a>
-<br>
-Tian Jiang, Douglas Renfrew, <strong>Kevin Drew</strong>, Noah Youngs, Glenn Butterfoss, Dennis Shasha, Richard Bonneau
-<br>
-BioRxiv, 2017 
-</p>
-
 
 
 <p>
