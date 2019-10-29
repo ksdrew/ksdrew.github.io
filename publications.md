@@ -3,15 +3,15 @@ layout: page
 title: Publications
 ---
 
-<a href="#Lead">Lead</a>
+<a href="#Lead">Lead Publications</a>
 <br>
-<a href="#Supporting">Supporting</a>
+<a href="#Supporting">Additional Publications</a>
 <p>
 
-<h3 id="Lead"><u>Lead</u></h3>
+<h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
-<a href="https://www.biorxiv.org/content/biorxiv/early/2018/11/27/480061.full.pdf" target='_blank'>
+<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31257-4" target='_blank'>
 Systematic discovery of endogenous human ribonucleoprotein complexes
 </a>
 <br>
@@ -105,7 +105,17 @@ Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiment
 Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2005.
 </p>
 
-<h3 id="Supporting"><u>Supporting</u></h3>
+<h3 id="Additional Publications"><u>Supporting</u></h3>
+
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/815837v1" target='_blank'>
+A pan-plant protein complex map reveals deep conservation and novel assemblies.
+</a>
+<br>
+McWhite, C.D., Papoulas, O., <strong>Drew, K.</strong>, Cox, R.M., Oldfield-June, V., Dong, O.X., Kwon, T., Wan C., Salmi, M.L., Roux, S.J., Browning, K.S., Chen, Z.J., Ronald, P.C., Marcotte, E.M. 
+<br>
+BioRxiv, 2019
+</p>
 
 <p>
 <a href="https://www.cell.com/cell-reports/abstract/S2211-1247(18)30917-3" target='_blank'>
