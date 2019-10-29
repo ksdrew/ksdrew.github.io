@@ -5,7 +5,7 @@ title: Publications
 
 <a href="#Lead">Lead Publications</a>
 <br>
-<a href="#Supporting">Additional Publications</a>
+<a href="#Additional">Additional Publications</a>
 <p>
 
 <h3 id="Lead"><u>Lead Publications</u></h3>
@@ -105,7 +105,7 @@ Computationally Analyzing Mass Spectra of Hydrogen Deuterium Exchange Experiment
 Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2005.
 </p>
 
-<h3 id="Additional Publications"><u>Supporting</u></h3>
+<h3 id="Additional"><u>Additional Publications</u></h3>
 
 <p>
 <a href="https://www.biorxiv.org/content/10.1101/815837v1" target='_blank'>
