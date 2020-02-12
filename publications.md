@@ -11,6 +11,22 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
+Hu.MAP2.0: Integration of over 15,000 proteomic experiments builds a global compendium of protein assemblies.
+<br>
+<strong>Kevin Drew*</strong>, Edward M. Marcotte
+<br>
+In Prep
+</p>
+
+<p>
+A systematic, label-free method for identifying RNA-associated proteins in vivo provides insights into vertebrate ciliary beating.
+<br>
+<strong>Kevin Drew*</strong>,  Chanjae Lee*, Rachael M. Cox, Vy Dang, Caitlin C. Devitt, Ophelia Papoulas, Ryan L. Huizar, Edward M. Marcotte and John B. Wallingford  (* equal contribution) 
+<br>
+Submitted
+</p>
+
+<p>
 <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31257-4" target='_blank'>
 Systematic discovery of endogenous human ribonucleoprotein complexes
 </a>
@@ -114,7 +130,7 @@ A pan-plant protein complex map reveals deep conservation and novel assemblies.
 <br>
 McWhite, C.D., Papoulas, O., <strong>Drew, K.</strong>, Cox, R.M., Oldfield-June, V., Dong, O.X., Kwon, T., Wan C., Salmi, M.L., Roux, S.J., Browning, K.S., Chen, Z.J., Ronald, P.C., Marcotte, E.M. 
 <br>
-BioRxiv, 2019
+Cell (accepted)
 </p>
 
 <p>
