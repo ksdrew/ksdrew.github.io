@@ -19,11 +19,13 @@ In Prep
 </p>
 
 <p>
+<a href="https://www.biorxiv.org/content/10.1101/2020.02.26.966754v2" target='_blank'>
 A systematic, label-free method for identifying RNA-associated proteins in vivo provides insights into vertebrate ciliary beating.
+</a>
 <br>
 <strong>Kevin Drew*</strong>,  Chanjae Lee*, Rachael M. Cox, Vy Dang, Caitlin C. Devitt, Ophelia Papoulas, Ryan L. Huizar, Edward M. Marcotte and John B. Wallingford  (* equal contribution) 
 <br>
-Submitted
+BioRxiv
 </p>
 
 <p>
