@@ -11,21 +11,23 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
-Hu.MAP2.0: Integration of over 15,000 proteomic experiments builds a global compendium of protein assemblies.
+<a href="https://www.biorxiv.org/content/10.1101/2020.09.15.298216v1" target='_blank'>
+hu.MAP 2.0: Integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies.
+</a>
 <br>
-<strong>Kevin Drew*</strong>, Edward M. Marcotte
+<strong>Kevin Drew*</strong>, John B. Wallingford, Edward M. Marcotte
 <br>
-In Prep
+BioRxiv
 </p>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2020.02.26.966754v2" target='_blank'>
-A systematic, label-free method for identifying RNA-associated proteins in vivo provides insights into vertebrate ciliary beating.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0012160620302293" target='_blank'>
+A systematic, label-free method for identifying RNA-associated proteins in vivo provides insights into vertebrate ciliary beating machinery.
 </a>
 <br>
 <strong>Kevin Drew*</strong>,  Chanjae Lee*, Rachael M. Cox, Vy Dang, Caitlin C. Devitt, Ophelia Papoulas, Ryan L. Huizar, Edward M. Marcotte and John B. Wallingford  (* equal contribution) 
 <br>
-BioRxiv
+Developmental Biology, 2020
 </p>
 
 <p>
@@ -126,13 +128,33 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 <h3 id="Additional"><u>Additional Publications</u></h3>
 
 <p>
+<a href="https://www.biorxiv.org/content/10.1101/2020.09.18.304121v1.abstract" target='_blank'>
+Systematic Identification of Protein Phosphorylation-Mediated Interactions
+</a>
+<br>
+Brendan M. Floyd, <strong>Kevin Drew</strong>, Edward M. Marcotte
+<br>
+BioRxiv
+</p>
+
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2020.04.21.052837v2" target='_blank'>
+Functional partitioning of a liquid-like organelle during assembly of axonemal dyneins
+</a>
+<br>
+Chanjae Lee, Rachael Cox, Ophelia Papoulas, Amjad Horani, <strong>Kevin Drew</strong>, Caitlin Devitt, Steven L Brody, Edward Marcotte, John B Wallingford
+<br>
+BioRxiv
+</p>
+
+<p>
 <a href="https://www.biorxiv.org/content/10.1101/815837v1" target='_blank'>
 A pan-plant protein complex map reveals deep conservation and novel assemblies.
 </a>
 <br>
 McWhite, C.D., Papoulas, O., <strong>Drew, K.</strong>, Cox, R.M., Oldfield-June, V., Dong, O.X., Kwon, T., Wan C., Salmi, M.L., Roux, S.J., Browning, K.S., Chen, Z.J., Ronald, P.C., Marcotte, E.M. 
 <br>
-Cell (accepted)
+Cell, 2020
 </p>
 
 <p>
