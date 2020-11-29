@@ -148,7 +148,7 @@ BioRxiv
 </p>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/815837v1" target='_blank'>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0092867420302269" target='_blank'>
 A pan-plant protein complex map reveals deep conservation and novel assemblies.
 </a>
 <br>
