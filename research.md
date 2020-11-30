@@ -14,22 +14,28 @@ Biology is carried out by interacting molecules. As fundamental as this concept 
 Complete understanding of the cell requires knowledge of the underlying molecular network (i.e. social network of biomolecules). How and when molecules interact ultimately determines a cell’s behavior. Unfortunately, we lack an accurate and comprehensive map of all biomolecular interactions. My lab builds machine learning and data mining tools to discover macromolecular assemblies in high throughput proteomic experiments. Towards this I have built the most accurate and comprehensive protein complex map available, which I call [hu.MAP](http://humap2.proteincomplexes.org). Hu.MAP has been central to 1) identifying novel disease genes including developmental diseases such as ciliopathies, 2) functionally annotating completely uncharacterized genes, and 3) discovering altogether novel protein assemblies suggesting new uncovered cellular functions.
 <br>
 See:
-<br>
+<ul>
+<li>
 <a href="https://www.biorxiv.org/content/10.1101/2020.09.15.298216v1" target='_blank'>
 Drew et al. hu.MAP 2.0: Integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies. BioRxiv 2020
 </a>
-<br>
+</li>
+<li>
 <a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
 Drew et al. Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes. Molecular Systems Biology 2017
 </a>
-<br>
+</li>
+<li>
 <a href="http://www.nature.com/nature/journal/v525/n7569/full/nature14877.html" target='_blank'>
 Wan, Borgeson et al. Panorama of ancient metazoan macromolecular complexes. Nature 2015
 </a>
-<br>
+</li>
+<li>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0092867420302269" target='_blank'>
 McWhite, Papoulas et al. A pan-plant protein complex map reveals deep conservation and novel assemblies. Cell 2020
 </a>
+</li>
+</ul>
 </p>
 <!--
 <img src="{{ site.url }}/images/complex_network.png" width="200" height="200" />
