@@ -46,6 +46,21 @@ McWhite, Papoulas et al. A pan-plant protein complex map reveals deep conservati
 </p>
 <p>
 Although, we know the identity of many protein assemblies, we still know very little about what factors govern their different structural states. This lack of characterization severely inhibits our understanding of 1) how protein assemblies function, 2) how they assemble/disassemble, and 3) ultimately how they affect the global state of the cell. My lab develops high throughput proteomic methods to identify the cellular and biochemical factors (e.g. RNA/DNA/ligand content, post-translational modifications, genomic modifications, developmental stage) that govern macromolecular assemblies. Using these methods, we attempt to uncover general principles of assembly regulation and function.
+<br>
+See:
+<ul>
+<li>
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005625" target='_blank'>
+Mallam et al. <i>Drew Systematic discovery of endogenous human ribonucleoprotein complexes.</i> Cell Reports, 2019 
+</a>
+</li>
+<li>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0012160620302293" target='_blank'>
+Drew, Lee et al. <i>A systematic, label-free method for identifying RNA-associated proteins in vivo provides insights into vertebrate ciliary beating machinery.</i> Developmental Biology, 2020
+</a>
+</li>
+</ul>
+</p>
 </p>
 <!--
 <img src="{{ site.url }}/images/proteasome_correlation.png" height="200" />
