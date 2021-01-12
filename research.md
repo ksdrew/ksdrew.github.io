@@ -122,6 +122,8 @@ See:
 <a href="http://pubs.acs.org/doi/full/10.1021/ja502310r" target='_blank'>
 Lao, Drew et al. <i>Rational design of topographical helix mimics as potent inhibitors of protein–protein interactions</i> Journal of the American Chemical Society, 2014
 </a>
+</li>
+<li>
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067051" target='_blank'>
 Drew, Renfrew et al. <i>Adding diverse noncanonical backbones to rosetta: enabling peptidomimetic design</i> PLoS One, 2013
 </a>
