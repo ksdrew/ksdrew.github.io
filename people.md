@@ -24,5 +24,7 @@ I received my PhD from New York University where I worked in the lab of [Richard
 Members:	
 </p>
 
+High School Student: Vedanti Joshi
+
 Hiring soon!
 
