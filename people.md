@@ -6,6 +6,8 @@ title: People
 <p class="message">
 PI:	Kevin Drew PhD
 </p>
+<img src="{{ site.url }}/images/kdrew_headshot_2021_square.jpg" width="100%" height="100%" />
+<p>
 
 I am an Assistant Professor at the University of Illinois at Chicago (UIC) in the department of Biological Sciences. Previously, I was a postdoctoral fellow in [Edward Marcotte's Lab](http://www.marcottelab.org/index.php/Main_Page) and [John Wallingford's Lab](https://www.wallingfordlab.org/) at UT Austin.  My main research interests involve protein interactions and protein complexes specifically understanding their structure, function and ways of modulating their activity.  
 
