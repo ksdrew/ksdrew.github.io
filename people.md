@@ -21,10 +21,10 @@ I received my PhD from New York University where I worked in the lab of [Richard
 
 
 <p class="message">
-Members:	
+<strong> Members: </strong>
 </p>
 
 High School Student: Vedanti Joshi
 
-Hiring soon!
+Hiring!
 
