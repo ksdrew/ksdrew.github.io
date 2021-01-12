@@ -56,8 +56,8 @@ See:
 
 <ul>
 <li>
-<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005625" target='_blank'>
-Mallam et al. <i>Drew Systematic discovery of endogenous human ribonucleoprotein complexes.</i> Cell Reports, 2019 
+<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31257-4" target='_blank'>
+Mallam et al. Drew <i>Systematic discovery of endogenous human ribonucleoprotein complexes.</i> Cell Reports, 2019 
 </a>
 </li>
 <li>
