@@ -24,7 +24,14 @@ I received my PhD from New York University where I worked in the lab of [Richard
 <strong> Members: </strong>
 </p>
 
-High School Student: Vedanti Joshi
+<p>
+Vedanti Joshi
+</p>
 
-Hiring!
+<img src="{{ site.url }}/images/VedantiJoshi_pic.jpg" width="20%" height="20%"/>
+
+Vedanti is a student at Daniel Wright Junior High School and Northwestern's Center for Talent Development. After winning Scholastic's "Hardest Math Problem Student Contest'', Vedanti's love of science and math eventually led her to discover that many intersectional fields exist, including computational biology.
+Vedanti's current project in the Drew Lab is an investigation of the efficacy of a potential therapeutic for the SARS-CoV-2 virus. Researchers have discovered a compound that inhibits viral protein mPro, a requirement for the viral life cycle. Vedanti is specifically investigating how likely this compound is to inhibit mPro in other viruses. In her spare time, she loves to teach competitive math through her non-profit organization.
+
+<p>
 
