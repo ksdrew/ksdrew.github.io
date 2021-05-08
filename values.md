@@ -3,14 +3,10 @@ layout: page
 title: Lab Values 
 ---
 
-<p class="message">
-	Lab Values
-</p>
-
 <p>
 <strong>Preamble</strong>
 <br>
-This document states the current Drew Lab Values on developing an inclusive environment in our shared scientific laboratory. The document has roots in several places including the Wallingford Lab Inclusivity Statement, the <a href="https://www.rosettacommons.org/node/10526" target="_blank">Rosetta Code of Conduct</a>, and the <a href="https://docs.google.com/document/d/1KuQ2oFZ61v5AXVQ4heSS7k9wclk3zDp479PygyxjKKc/edit?usp=sharing" target="_blank">“How to improve psychological safety in your lab”</a> document from the RosettaCommons. The document is meant to be reviewed and revised periodically to reflect the views of the current lab membership. Importantly, this document is not meant to supersede university policy on nondiscrimination and harassment. 
+This document states the current Drew Lab Values on developing an inclusive environment in our shared scientific laboratory. The document has roots in several places including the Wallingford Lab Inclusivity Statement, the <a href="https://www.rosettacommons.org/node/10526" target="_blank">Rosetta Code of Conduct</a>, and the "How to improve psychological safety in your lab” document from the RosettaCommons. The document is meant to be reviewed and revised periodically to reflect the views of the current lab membership. Importantly, this document is not meant to supersede university policy on nondiscrimination and harassment. 
 <br>
 <br>
 <strong>Inclusivity Statement</strong>
