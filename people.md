@@ -29,7 +29,7 @@ Eliza Stierle
 </p>
 
 <img src="{{ site.url }}/images/ElizaStierle_pic.png" width="20%" height="20%"/>
-
+<br>
 Eliza joined the Drew Lab in the Summer of 2021 after beginning the prestigious Biomedical Visualization Master's program at UIC. Eliza brings many expertise to the lab above her biology background, in particular her exceptional talents as a studio artist where she has studied and exhibited internationally (e.g. Prague; Monte Castello, Italy). One can view her portfolio <a href="https://www.elizafineart.com/" target="_blank">here</a>.
 <p>
 
@@ -39,7 +39,7 @@ Vedanti Joshi
 </p>
 
 <img src="{{ site.url }}/images/VedantiJoshi_pic.JPG" width="20%" height="20%"/>
-
+<br>
 Vedanti is a student at Daniel Wright Junior High School and Northwestern's Center for Talent Development. After winning Scholastic's "Hardest Math Problem Student Contest'', Vedanti's love of science and math eventually led her to discover that many intersectional fields exist, including computational biology.
 Vedanti's current project in the Drew Lab is an investigation of the efficacy of a potential therapeutic for the SARS-CoV-2 virus. Researchers have discovered a compound that inhibits viral protein mPro, a requirement for the viral life cycle. Vedanti is specifically investigating how likely this compound is to inhibit mPro in other viruses. In her spare time, she loves to teach competitive math through her non-profit organization.
 
