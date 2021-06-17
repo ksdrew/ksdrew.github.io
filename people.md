@@ -25,6 +25,16 @@ I received my PhD from New York University where I worked in the lab of [Richard
 </p>
 
 <p>
+Eliza Stierle
+</p>
+
+<img src="{{ site.url }}/images/ElizaStierle_pic.png" width="20%" height="20%"/>
+
+Eliza joined the Drew Lab in the Summer of 2021 after beginning the prestigious Biomedical Visualization Master's program at UIC. Eliza brings many expertise to the lab above her biology background, in particular her exceptional talents as a studio artist where she has studied and exhibited internationally (e.g. Prague; Monte Castello, Italy). One can view her portfolio <a href="https://www.elizafineart.com/" target="_blank">here</a>.
+<p>
+
+
+<p>
 Vedanti Joshi
 </p>
 
