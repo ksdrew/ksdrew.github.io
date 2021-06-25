@@ -16,13 +16,20 @@ The Drew Lab is accepting applications for a highly motivated and ambitious Visi
 
 In this role you will have the opportunity to: 
 <br><br>
+<ul>
+<li>
 Execute critical experiments with careful attention to detail, consistency, and documentation. 
-<br><br>
+</li>
+<li>
 Collaborate with other scientists to develop new experimental methods and test novel ideas.
-<br><br>
+</li>
+<li>
 Manage a growing lab doing cutting edge research.
-<br><br>
+</li>
+<li>
 Grow your knowledge base and learn about new approaches and techniques in High-Throughput Proteomics and Data Science
+</li>
+</ul>
 
 <p>
 
