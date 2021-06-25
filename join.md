@@ -10,12 +10,9 @@ title: Join Us
 <strong>Visiting Research Specialist (Lab Tech)</strong>
 <br>
 
-The Drew Lab is accepting applications for a highly motivated and ambitious Visiting Research Specialist (Lab Tech) interested in studying macromolecular assemblies. The research in the Drew Lab has several ongoing projects focused on the identification, characterization, and modulation of assembly activity. Most projects aim to understand general principles of assemblies, but we also aim to better understand the role assemblies play in specific diseases such as ciliopathies. We do this using high throughput proteomics, machine learning, and molecular modeling. Further information about our current research can be found on our <a href="">reseach page</a>.
-
-
+The Drew Lab is accepting applications for a highly motivated and ambitious Visiting Research Specialist (Lab Tech) interested in studying macromolecular assemblies. The research in the Drew Lab has several ongoing projects focused on the identification, characterization, and modulation of assembly activity. Most projects aim to understand general principles of assemblies, but we also aim to better understand the role assemblies play in specific diseases such as ciliopathies. We do this using high throughput proteomics, machine learning, and molecular modeling. Further information about our current research can be found on our <a href="/research/">reseach page</a>.
 
 In this role you will have the opportunity to: 
-<br><br>
 <ul>
 <li>
 Execute critical experiments with careful attention to detail, consistency, and documentation. 
@@ -38,7 +35,7 @@ Please email Kevin Drew (ksdrew
 @uic.edu) with any questions. 
 <br>
 
-Please apply <a href="https://jobs.uic.edu/job-board/job-details?jobID=147732&job=visiting-research-specialist-biological-sciences" target="_blank">here</a>
+Please apply <a href="https://jobs.uic.edu/job-board/job-details?jobID=147732&job=visiting-research-specialist-biological-sciences" target="_blank">here</a>.
 
 <p>
 
@@ -53,11 +50,11 @@ Please email Kevin Drew (ksdrew
 @uic.edu) with CV, letter explaining interest and fit in the lab, and contact info for three references. 
 <br>
 
-Full job posting <a href="https://jobs.uic.edu/job-board/job-details?jobID=142867&amp;job=postdoctoral-research-associate-drew-lab-department-of-biological-sciences" target="_blank">here</a>
-
 <p>
 
 <strong>Graduate Students</strong>
 <br>
-We accept rotation students from the MCDBN Graduate Program. Please email Kevin if interested in a rotation. 
+We accept rotation students from the MCDBN Graduate Program. Please email Kevin Drew (ksdrew
+<span style="display: none;">REMOVE_REMOVE</span>
+@uic.edu) if interested in a rotation. 
 
