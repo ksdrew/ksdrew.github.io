@@ -11,13 +11,13 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2020.09.15.298216v1" target='_blank'>
-hu.MAP 2.0: Integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies.
+<a href="https://www.embopress.org/doi/full/10.15252/msb.202010016" target='_blank'>
+hu.MAP 2.0: integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies
 </a>
 <br>
 <strong>Kevin Drew*</strong>, John B. Wallingford, Edward M. Marcotte
 <br>
-BioRxiv
+Molecular Systems Biology, 2021 
 </p>
 
 <p>
