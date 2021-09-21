@@ -15,7 +15,7 @@ title: Publications
 hu.MAP 2.0: integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies
 </a>
 <br>
-<strong>Kevin Drew*</strong>, John B. Wallingford, Edward M. Marcotte
+<strong>Kevin Drew</strong>, John B. Wallingford, Edward M. Marcotte
 <br>
 Molecular Systems Biology, 2021 
 </p>
