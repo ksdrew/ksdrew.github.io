@@ -128,23 +128,23 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 <h3 id="Additional"><u>Additional Publications</u></h3>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2020.09.18.304121v1.abstract" target='_blank'>
+<a href="https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00750" target='_blank'>
 Systematic Identification of Protein Phosphorylation-Mediated Interactions
 </a>
 <br>
 Brendan M. Floyd, <strong>Kevin Drew</strong>, Edward M. Marcotte
 <br>
-BioRxiv
+Journal of Proteome Research, 2021
 </p>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2020.04.21.052837v2" target='_blank'>
+<a href="https://elifesciences.org/articles/58662" target='_blank'>
 Functional partitioning of a liquid-like organelle during assembly of axonemal dyneins
 </a>
 <br>
 Chanjae Lee, Rachael Cox, Ophelia Papoulas, Amjad Horani, <strong>Kevin Drew</strong>, Caitlin Devitt, Steven L Brody, Edward Marcotte, John B Wallingford
 <br>
-BioRxiv
+eLife, 2020
 </p>
 
 <p>
