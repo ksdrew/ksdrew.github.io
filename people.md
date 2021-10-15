@@ -25,7 +25,7 @@ I received my PhD from New York University where I worked in the lab of [Richard
 </p>
 
 <p>
-Erin Claussen
+<strong>Erin Claussen</strong>
 </p>
 
 <img src="{{ site.url }}/images/EClaussen_headshot.jpg" width="20%" height="20%"/>
@@ -35,7 +35,7 @@ Erin is a visiting research specialist in the Drew Lab starting in October 2021.
 
 
 <p>
-Eliza Stierle
+<strong>Eliza Stierle</strong>
 </p>
 
 <img src="{{ site.url }}/images/ElizaStierle_pic.png" width="20%" height="20%"/>
@@ -45,7 +45,7 @@ Eliza joined the Drew Lab in the Summer of 2021 after beginning the prestigious 
 
 
 <p>
-Vedanti Joshi
+<strong>Vedanti Joshi</strong>
 </p>
 
 <img src="{{ site.url }}/images/VedantiJoshi_pic.JPG" width="20%" height="20%"/>
