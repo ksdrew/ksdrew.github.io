@@ -25,6 +25,16 @@ I received my PhD from New York University where I worked in the lab of [Richard
 </p>
 
 <p>
+Erin Claussen
+</p>
+
+<img src="{{ site.url }}/images/EClaussen_headshot.jpg" width="20%" height="20%"/>
+<br>
+Erin is a visiting research specialist in the Drew Lab starting in October 2021. She has a strong microbiology background with seven years of laboratory research experience. Erin worked as a researcher at the American Dental Association, an undergraduate researcher at the USDA, and an ORISE fellow in the USDA Soil Microbiome lab at the University of Illinois Urbana- Champaign. She also worked at the Chicago Department of Public Health as an intern case investigator in the enteric illness department. In her spare time, Erin uses her microbiology knowledge to brew beer and bake sourdough bread. Some of her research interests include the human microbiome and the use of biomarkers in assessing disease states. 
+<p>
+
+
+<p>
 Eliza Stierle
 </p>
 
