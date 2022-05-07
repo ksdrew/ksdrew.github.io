@@ -25,6 +25,17 @@ I received my PhD from New York University where I worked in the lab of [Richard
 </p>
 
 <p>
+<strong>Sam Fischer</strong>
+</p>
+
+<img src="{{ site.url }}/images/sfischer_headshot.png" width="20%" height="20%"/>
+<br>
+Sam is a PhD student that joined the Drew Lab in March 2022. She received a Bachelor’s of Science in Biology and Chemistry from Concordia University Chicago. Prior to UIC she spent time collecting ecological data in eastern Oregon as a research intern for the Bureau of Land Management, preparing specimens from human cadavers as a laboratory technician, and performing chemical analyses as a QA Technologist at Solvay Chemical. Sam’s current research passions include elucidation of  macromolecular structural information to uncover disease mechanisms, and the use of novel molecules to modulate disease pathology. 
+<p>
+
+
+
+<p>
 <strong>Erin Claussen</strong>
 </p>
 
