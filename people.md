@@ -44,7 +44,25 @@ Sam is a PhD student that joined the Drew Lab in March 2022. She received a Bach
 Erin is a visiting research specialist in the Drew Lab starting in October 2021. She has a strong microbiology background with seven years of laboratory research experience. Erin worked as a researcher at the American Dental Association, an undergraduate researcher at the USDA, and an ORISE fellow in the USDA Soil Microbiome lab at the University of Illinois Urbana- Champaign. She also worked at the Chicago Department of Public Health as an intern case investigator in the enteric illness department. In her spare time, Erin uses her microbiology knowledge to brew beer and bake sourdough bread. Some of her research interests include the human microbiome and the use of biomarkers in assessing disease states. 
 <p>
 
+<p>
+<strong>Carlos Merlos</strong>
+</p>
 
+<img src="{{ site.url }}/images/cmerlos.jpg" width="20%" height="20%"/>
+<br>
+Carlos is an undergraduate L@s GANAS fellow at UIC interested in protein structure and computational biology. His current work in the lab focuses on using AlphaFold2 to predict interactions among pairs of proteins in larger macromolecular assemblies. 
+<p>
+
+<p>
+<strong>Adeline Fredrick</strong>
+</p>
+
+<img src="{{ site.url }}/images/afredrick.jpeg" width="20%" height="20%"/>
+<br>
+Adeline is an undergraduate student at UIC. She is a Junior majoring in Integrated Health Studies with a Concentration of Health and Science as well as minoring in Psychology. She works as a medical assistant for a family medicine clinic and is the secretary of the MedLife club on campus. Her post-graduate goal is to become a MD or PA. Two of her favorite hobbies are yoga and biking.
+<p>
+
+<!--
 <p>
 <strong>Eliza Stierle</strong>
 </p>
@@ -53,7 +71,7 @@ Erin is a visiting research specialist in the Drew Lab starting in October 2021.
 <br>
 Eliza joined the Drew Lab in the Summer of 2021 after beginning the prestigious Biomedical Visualization Master's program at UIC. Eliza brings many expertise to the lab above her biology background, in particular her exceptional talents as a studio artist where she has studied and exhibited internationally (e.g. Prague; Monte Castello, Italy). One can view her portfolio <a href="https://www.elizafineart.com/" target="_blank">here</a>.
 <p>
-
+-->
 
 <p>
 <strong>Vedanti Joshi</strong>
