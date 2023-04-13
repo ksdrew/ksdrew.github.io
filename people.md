@@ -33,6 +33,16 @@ I received my PhD from New York University where I worked in the lab of [Richard
 Sam is a PhD student that joined the Drew Lab in March 2022. She received a Bachelor’s of Science in Biology and Chemistry from Concordia University Chicago. Prior to UIC she spent time collecting ecological data in eastern Oregon as a research intern for the Bureau of Land Management, preparing specimens from human cadavers as a laboratory technician, and performing chemical analyses as a QA Technologist at Solvay Chemical. Sam’s current research passion includes elucidation of macromolecular structural information to uncover disease mechanisms, and the use of novel molecules to modulate disease pathology. 
 <p>
 
+<p>
+<strong>Andi Rosner</strong>
+</p>
+
+<img src="{{ site.url }}/images/andiRosner.jpg" width="20%" height="20%"/>
+<br>
+Andi Rosner (They/Them) joined the Drew Lab in the spring of 2023. They completed their undergrad at the University of Chicago with a Bachelor's of Arts in psychology, their Masters of Science in Biology at Illinois Institute of Technology.  Then back at Uchicago's Malamy Lab for 4 years of research on wound healing and signaling in the jellyfish clytia hemisphaerica. All while being a professional performer since 2010. 
+Andi is currently exploring proteomics in fungi, specifically candida auris.
+<p>
+
 
 
 <p>
@@ -71,7 +81,6 @@ Adeline is an undergraduate student at UIC. She is a Junior majoring in Integrat
 <br>
 Eliza joined the Drew Lab in the Summer of 2021 after beginning the prestigious Biomedical Visualization Master's program at UIC. Eliza brings many expertise to the lab above her biology background, in particular her exceptional talents as a studio artist where she has studied and exhibited internationally (e.g. Prague; Monte Castello, Italy). One can view her portfolio <a href="https://www.elizafineart.com/" target="_blank">here</a>.
 <p>
--->
 
 <p>
 <strong>Vedanti Joshi</strong>
@@ -84,3 +93,15 @@ Vedanti's current project in the Drew Lab is an investigation of the efficacy of
 
 <p>
 
+-->
+
+<p class="message">
+<strong> Former Members: </strong>
+</p>
+
+<p>
+<strong>Eliza Stierle</strong> - Masters Student
+</p>
+<p>
+<strong>Vedanti Joshi</strong> - High School Student
+</p>
