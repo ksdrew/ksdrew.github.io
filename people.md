@@ -25,6 +25,16 @@ I received my PhD from New York University where I worked in the lab of [Richard
 </p>
 
 <p>
+<strong>Akshaya Rajaraman</strong>
+</p>
+
+<img src="{{ site.url }}/images/arajaraman2.jpg" width="20%" height="20%"/>
+<br>
+
+Akshaya Rajaraman joined the Drew lab after completing her Bachelor of Technology in Biotechnology from Anna University in India. Prior to this, she spent three years in the Okkema laboratory studying the development of C. elegans pharynx. Drawing on her background in developmental biology and her interests in machine learning and mass spectrometry, she aims to map the protein complexome of pluripotent stem cells and their differentiated counterparts at the single-cell level. Outside of her scientific pursuits, Akshaya enjoys crocheting intricate patterns, a hobby that reflects her interest in complex networks.
+<p>
+
+<p>
 <strong>Sam Fischer</strong>
 </p>
 
