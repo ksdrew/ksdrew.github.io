@@ -11,6 +11,16 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
+<a href="https://www.biorxiv.org/content/10.1101/2022.12.19.521113v2" target='_blank'>
+CMA-ES-Rosetta: Blackbox optimization algorithm traverses rugged peptide docking energy landscapes
+</a>
+<br>
+<strong>Erin R. Claussen<strong>, P. Douglas Renfrew, Christian L. Müller, <strong>Kevin Drew</strong>
+<br>
+BioRxiv, 2022 
+</p>
+
+<p>
 <a href="https://www.embopress.org/doi/full/10.15252/msb.202010016" target='_blank'>
 hu.MAP 2.0: integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies
 </a>
@@ -126,6 +136,16 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 </p>
 
 <h3 id="Additional"><u>Additional Publications</u></h3>
+
+<p>
+<a href="https://www.sciencedirect.com/science/article/pii/S2211124722009056" target='_blank'>
+The protein organization of a red blood cell
+</a>
+<br>
+Wisath Sae-Lee, Caitlyn L McCafferty, Eric J Verbeke, Pierre C Havugimana, Ophelia Papoulas, Claire D McWhite, John R Houser, Kim Vanuytsel, George J Murphy, <strong>Kevin Drew</strong>, Andrew Emili, David W Taylor, Edward M Marcotte
+<br>
+Cell Reports, 2022
+</p>
 
 <p>
 <a href="https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00750" target='_blank'>
