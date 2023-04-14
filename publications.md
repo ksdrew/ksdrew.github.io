@@ -15,7 +15,7 @@ title: Publications
 CMA-ES-Rosetta: Blackbox optimization algorithm traverses rugged peptide docking energy landscapes
 </a>
 <br>
-<strong>Erin R. Claussen<strong>, P. Douglas Renfrew, Christian L. Müller, <strong>Kevin Drew</strong>
+<strong>Erin R. Claussen</strong>, P. Douglas Renfrew, Christian L. Müller, <strong>Kevin Drew</strong>
 <br>
 BioRxiv, 2022 
 </p>
