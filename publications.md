@@ -11,6 +11,16 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/prot.26619" target='_blank'>
+Scaffold Matcher: A CMA-ES based algorithm for identifying hotspot aligned peptidomimetic scaffolds
+</a>
+<br>
+<strong>Erin R. Claussen</strong>, P. Douglas Renfrew, Christian L. Müller, <strong>Kevin Drew</strong>
+<br>
+Proteins, 2023
+</p>
+<!--
+<p>
 <a href="https://www.biorxiv.org/content/10.1101/2022.12.19.521113v2" target='_blank'>
 CMA-ES-Rosetta: Blackbox optimization algorithm traverses rugged peptide docking energy landscapes
 </a>
@@ -19,6 +29,7 @@ CMA-ES-Rosetta: Blackbox optimization algorithm traverses rugged peptide docking
 <br>
 BioRxiv, 2022 
 </p>
+-->
 
 <p>
 <a href="https://www.embopress.org/doi/full/10.15252/msb.202010016" target='_blank'>
