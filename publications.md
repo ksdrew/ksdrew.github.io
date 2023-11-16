@@ -149,6 +149,16 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 <h3 id="Additional"><u>Additional Publications</u></h3>
 
 <p>
+<a href="https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(23)00377-X" target='_blank'>
+Come for the atmosphere, stay for the interactions: Deciphering small molecule partitioning into biomolecular condensates
+</a>
+<br>
+Bakhtyar Sepehri, Kevin Drew and Jose ́ A. Villegas
+<br>
+Cell Chemical Biology, 2023
+</p>
+
+<p>
 <a href="https://www.sciencedirect.com/science/article/pii/S2211124722009056" target='_blank'>
 The protein organization of a red blood cell
 </a>
