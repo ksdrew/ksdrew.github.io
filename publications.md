@@ -153,7 +153,7 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 Come for the atmosphere, stay for the interactions: Deciphering small molecule partitioning into biomolecular condensates
 </a>
 <br>
-Bakhtyar Sepehri, Kevin Drew and Jose ́ A. Villegas
+Bakhtyar Sepehri, <strong>Kevin Drew</strong> and Jose ́ A. Villegas
 <br>
 Cell Chemical Biology, 2023
 </p>
