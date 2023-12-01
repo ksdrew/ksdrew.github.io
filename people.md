@@ -101,8 +101,8 @@ Eliza joined the Drew Lab in the Summer of 2021 after beginning the prestigious 
 
 <img src="{{ site.url }}/images/VedantiJoshi_pic.JPG" width="20%" height="20%"/>
 <br>
-Vedanti is a student at Daniel Wright Junior High School and Northwestern's Center for Talent Development. After winning Scholastic's "Hardest Math Problem Student Contest'', Vedanti's love of science and math eventually led her to discover that many intersectional fields exist, including computational biology.
-Vedanti's current project in the Drew Lab is an investigation of the efficacy of a potential therapeutic for the SARS-CoV-2 virus. Researchers have discovered a compound that inhibits viral protein mPro, a requirement for the viral life cycle. Vedanti is specifically investigating how likely this compound is to inhibit mPro in other viruses. In her spare time, she loves to teach competitive math through her non-profit organization.
+Vedanti is a student at Illinois Mathematics and Science Academy (IMSA) working through the Student Inquiry and Research (SIR) Program. After winning Scholastic's "Hardest Math Problem Student Contest'', Vedanti's love of science and math eventually led her to discover that many intersectional fields exist, including computational biology.
+Vedanti has worked on several projects in the Drew Lab including an investigation of the efficacy of a potential therapeutic for the SARS-CoV-2 virus, and clustering high throughput proteomics data to identify the wiring diagram of biological macromolecular assemblies. She is currently working on developing high quality datasets for training sophisticated machine learning algorithms to identify novel biological macromolecular assemblies, an important and challenging task in the field. In her spare time, she loves to teach competitive math through her non-profit organization.
 
 <p>
 
