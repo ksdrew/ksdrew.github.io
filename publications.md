@@ -72,7 +72,7 @@ PLOS Computational Biology, 2017
 </p>
 
 <p>
-<a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
+<a href="https://www.embopress.org/doi/full/10.15252/msb.20167490" target='_blank'>
 Integration of over 9,000 mass spectrometry experiments builds a global map of human protein complexes
 </a>
 <br>
@@ -80,7 +80,7 @@ Integration of over 9,000 mass spectrometry experiments builds a global map of h
 <br>
 Molecular Systems Biology, 2017 
 <br>
-<a href="http://msb.embopress.org/content/13/6/932" target='_blank'>
+<a href="https://www.embopress.org/doi/full/10.15252/msb.20167490" target='_blank'>
 <img src="{{ site.url }}/images/MSB2017_cover_thumbnail.jpg" width="100" />
 </a>
 </p>
