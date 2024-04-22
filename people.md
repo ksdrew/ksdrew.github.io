@@ -85,7 +85,9 @@ Adeline is an undergraduate student at UIC. She is a Junior majoring in Integrat
 <br>
 <br>
 <a href="/assets/IdentifyingCiliaryProteins_FredrickCapstone.pdf" target="_blank">
-Adeline Fredrick's Honors Capstone: Identifying Ciliary Proteins in Mammalian Retinas using a Gentle Extraction Method
+Adeline Fredrick's Honors Capstone: 
+<br>
+Identifying Ciliary Proteins in Mammalian Retinas using a Gentle Extraction Method
 </a>
 <p>
 
