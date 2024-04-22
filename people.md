@@ -82,6 +82,11 @@ Carlos is an undergraduate L@s GANAS fellow at UIC interested in protein structu
 <img src="{{ site.url }}/images/afredrick.jpeg" width="20%" height="20%"/>
 <br>
 Adeline is an undergraduate student at UIC. She is a Junior majoring in Integrated Health Studies with a Concentration of Health and Science as well as minoring in Psychology. She works as a medical assistant for a family medicine clinic and is the secretary of the MedLife club on campus. Her post-graduate goal is to become a MD or PA. Two of her favorite hobbies are yoga and biking.
+<br>
+<br>
+<a href="/assets/IdentifyingCiliaryProteins_FredrickCapstone.pdf" target="_blank">
+Adeline Fredrick's Honors Capstone: Identifying Ciliary Proteins in Mammalian Retinas using a Gentle Extraction Method
+</a>
 <p>
 
 <!--
