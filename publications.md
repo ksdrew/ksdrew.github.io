@@ -169,6 +169,16 @@ Cell Reports, 2022
 </p>
 
 <p>
+<a href="https://www.sciencedirect.com/science/article/pii/S2666166721000770" target='_blank'>
+Co-fractionation/mass spectrometry to identify protein complexes
+</a>
+<br>
+Claire D McWhite, Ophelia Papoulas, <strong>Kevin Drew</strong>, Vy Dang, Janelle C. Leggere, Wisath Sae-Lee, Edward M Marcotte
+<br>
+Star Protocols, 2021
+</p>
+
+<p>
 <a href="https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00750" target='_blank'>
 Systematic Identification of Protein Phosphorylation-Mediated Interactions
 </a>
