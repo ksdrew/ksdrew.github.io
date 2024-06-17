@@ -11,6 +11,16 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
+<a href="https://micropublication.org/journals/biology/micropub-biology-001218" target='_blank'>
+Identifying Ciliary Proteins in Mammalian Retinas using a Gentle Extraction Method
+</a>
+<br>
+<strong>Adeline S. Fredrick</strong>, <strong>Erin R. Claussen</strong>, <strong>Samantha N. Fischer</strong>, Samson Balasanyants, <strong>Akshaya Rajaraman</strong>, <strong>Andi C. Rosner</strong>, and <strong>Kevin Drew</strong>
+<br>
+microPublication Biology 2024
+</p>
+
+<p>
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/prot.26619" target='_blank'>
 Scaffold Matcher: A CMA-ES based algorithm for identifying hotspot aligned peptidomimetic scaffolds
 </a>

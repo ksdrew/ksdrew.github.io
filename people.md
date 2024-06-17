@@ -55,6 +55,7 @@ Andi is currently exploring proteomics in fungi, specifically candida auris.
 
 
 
+<!--
 <p>
 <strong>Erin Claussen</strong>
 </p>
@@ -63,6 +64,7 @@ Andi is currently exploring proteomics in fungi, specifically candida auris.
 <br>
 Erin is a visiting research specialist in the Drew Lab starting in October 2021. She has a strong microbiology background with seven years of laboratory research experience. Erin worked as a researcher at the American Dental Association, an undergraduate researcher at the USDA, and an ORISE fellow in the USDA Soil Microbiome lab at the University of Illinois Urbana- Champaign. She also worked at the Chicago Department of Public Health as an intern case investigator in the enteric illness department. In her spare time, Erin uses her microbiology knowledge to brew beer and bake sourdough bread. Some of her research interests include the human microbiome and the use of biomarkers in assessing disease states. 
 <p>
+-->
 
 <!--
 <p>
@@ -75,6 +77,7 @@ Carlos is an undergraduate L@s GANAS fellow at UIC interested in protein structu
 <p>
 -->
 
+<!--
 <p>
 <strong>Adeline Fredrick</strong>
 </p>
@@ -90,6 +93,7 @@ Adeline Fredrick's Honors Capstone:
 Identifying Ciliary Proteins in Mammalian Retinas using a Gentle Extraction Method
 </a>
 <p>
+-->
 
 <!--
 <p>
@@ -123,4 +127,10 @@ Vedanti has worked on several projects in the Drew Lab including an investigatio
 </p>
 <p>
 <strong>Carlos Merlos</strong> - Undergraduate Researcher, now: RosettaCommons PostBac Scholar (Northwestern University)
+</p>
+<p>
+<strong>Erin Claussen</strong> - Visiting Research Specialist
+</p>
+<p>
+<strong>Adeline Fredrick</strong> - Undergraduate Researcher, now: Medical School
 </p>
