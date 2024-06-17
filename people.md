@@ -133,4 +133,10 @@ Vedanti has worked on several projects in the Drew Lab including an investigatio
 </p>
 <p>
 <strong>Adeline Fredrick</strong> - Undergraduate Researcher, now: Medical School
+<br>
+<a href="https://data.caltech.edu/records/qjwch-e0t24" target="_blank">
+Honors Capstone: 
+<br>
+A. Fredrick, Identifying Ciliary Proteins in Mammalian Retinas using a Gentle Extraction Method (2023)
+</a>
 </p>
