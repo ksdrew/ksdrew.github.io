@@ -11,6 +11,16 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.11.617930v1" target='_blank'>
+hu.MAP3.0: Atlas of human protein complexes by integration of > 25,000 proteomic experiments
+</a>
+<br>
+<strong>Samantha N. Fischer</strong>,<strong>Erin R. Claussen</strong>, Savvas Kourtis, Sara Sdelci, Sandra Orchard, Henning Hermjakob, Georg Kustatscher, <strong>Kevin Drew</strong>
+<br>
+BioRxiv 2024
+</p>
+
+<p>
 <a href="https://micropublication.org/journals/biology/micropub-biology-001218" target='_blank'>
 Identifying Ciliary Proteins in Mammalian Retinas using a Gentle Extraction Method
 </a>
@@ -157,6 +167,26 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 </p>
 
 <h3 id="Additional"><u>Additional Publications</u></h3>
+
+<p>
+<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae1085/7903366?login=false" target='_blank'>
+Complex portal 2025: predicted human complexes and enhanced visualisation tools for the comparison of orthologous and paralogous complexes 
+</a>
+<br>
+Sucharitha Balu, Susie Huget, Juan Jose Medina Reyes, Eliot Ragueneau, Kalpana Panneerselvam, <strong>Samantha N Fischer</strong>, <strong>Erin R Claussen</strong>, Savvas Kourtis, Colin W Combe, Birgit H M Meldal, Livia Perfetto, Juri Rappsilber, Georg Kustatscher, <strong>Kevin Drew</strong>, Sandra Orchard, Henning Hermjakob
+<br>
+Nucleic Acid Research, 2024
+</p>
+
+<p>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.26.595818v1" target='_blank'>
+Ancient eukaryotic protein interactions illuminate modern genetic traits and disorders
+</a>
+<br>
+Rachael M. Cox, Ophelia Papoulas, Shirlee Shril, Chanjae Lee, Tynan Gardner, Anna M. Battenhouse, Muyoung Lee, <strong>Kevin Drew</strong>, Claire D. McWhite, David Yang, Janelle C. Leggere, Dannie Durand, Friedhelm Hildebrandt, John B. Wallingford, Edward M. Marcotte
+<br>
+BioRxiv, 2024
+</p>
 
 <p>
 <a href="https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(23)00377-X" target='_blank'>
