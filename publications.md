@@ -11,13 +11,23 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2024.10.11.617930v1" target='_blank'>
+<a href="https://www.biorxiv.org/content/10.1101/2025.07.17.665435" target='_blank'>
+DirectContacts2: A network of direct physical protein interactions derived from high-throughput mass spectrometry experiments
+</a>
+<br>
+<strong>Erin R Claussen</strong>, <strong>Miles D Woodcock-Girard</strong>, <strong>Samantha N Fischer</strong>, <strong>Kevin Drew</strong>
+<br>
+BioRxiv 2025
+</p>
+
+<p>
+<a href="https://www.embopress.org/doi/full/10.1038/s44320-025-00121-5" target='_blank'>
 hu.MAP3.0: Atlas of human protein complexes by integration of > 25,000 proteomic experiments
 </a>
 <br>
 <strong>Samantha N. Fischer</strong>,<strong>Erin R. Claussen</strong>, Savvas Kourtis, Sara Sdelci, Sandra Orchard, Henning Hermjakob, Georg Kustatscher, <strong>Kevin Drew</strong>
 <br>
-BioRxiv 2024
+Molecular Systems Biology 2025
 </p>
 
 <p>
@@ -167,6 +177,16 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 </p>
 
 <h3 id="Additional"><u>Additional Publications</u></h3>
+
+<p>
+<a href="https://www.nature.com/articles/s41467-025-61005-8" target='_blank'>
+The human ciliopathy protein RSG1 links the CPLANE complex to transition zone architecture
+</a>
+<br>
+Neftalí Vazquez, Chanjae Lee, Irene Valenzuela, Thao P. Phan, Camille Derderian, Marcelo Chávez, Nancie A. Mooney, Janos Demeter, Mohammad Ovais Aziz-Zanjani, Ivon Cusco, Marta Codina, Núria Martínez-Gil, Diana Valverde, Carlos Solarat, Ange-Line Buel, Cristel Thauvin-Robinet, Elisabeth Steichen, Isabel Filges, Pascal Joset, Julie De Geyter, Krishna Vaidyanathan, Tynan P. Gardner, Michinori Toriyama, Edward M. Marcotte, <strong>Kevin Drew</strong>, Elle C. Roberson, Peter K. Jackson, Jeremy F. Reiter, Eduardo F. Tizzano & John B. Wallingford 
+<br>
+Nature Communications 2025
+</p>
 
 <p>
 <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae1085/7903366?login=false" target='_blank'>
