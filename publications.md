@@ -25,7 +25,7 @@ BioRxiv 2025
 hu.MAP3.0: Atlas of human protein complexes by integration of > 25,000 proteomic experiments
 </a>
 <br>
-<strong>Samantha N. Fischer</strong>,<strong>Erin R. Claussen</strong>, Savvas Kourtis, Sara Sdelci, Sandra Orchard, Henning Hermjakob, Georg Kustatscher, <strong>Kevin Drew</strong>
+<strong>Samantha N. Fischer</strong>, <strong>Erin R. Claussen</strong>, Savvas Kourtis, Sara Sdelci, Sandra Orchard, Henning Hermjakob, Georg Kustatscher, <strong>Kevin Drew</strong>
 <br>
 Molecular Systems Biology 2025
 </p>
