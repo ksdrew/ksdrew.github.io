@@ -52,6 +52,13 @@ Sam is a PhD student that joined the Drew Lab in March 2022. She received a Bach
 Andi Rosner (She/Her) joined the Drew Lab in the spring of 2023. She completed her undergrad at the University of Chicago with a Bachelor's of Arts in psychology, her Masters of Science in Biology at Illinois Institute of Technology. She now studies fungal pathogens' interactomes and proteomes using high-throughput proteomics.
 <p>
 
+<p>
+<strong>Miles Woodcock-Girard</strong>
+</p>
+<img src="{{ site.url }}/images/MWoodcock_Girard_61715590.jpg" width="20%" height="20%"/>
+<br>
+Miles is a PhD student that joined the Drew Lab in 2024. He received his Bachelor's degree from UIC. During this time he spent time as an undergraduate researcher in the lab of Dr. Joe Walker. He currently works on systematically modeling the three dimensional structure of protein complexes.
+<p>
 
 
 <!--
@@ -105,6 +112,7 @@ Eliza joined the Drew Lab in the Summer of 2021 after beginning the prestigious 
 <p>
 -->
 
+<!--
 <p>
 <strong>Vedanti Joshi</strong>
 </p>
@@ -115,12 +123,16 @@ Vedanti is a student at Illinois Mathematics and Science Academy (IMSA) working 
 Vedanti has worked on several projects in the Drew Lab including an investigation of the efficacy of a potential therapeutic for the SARS-CoV-2 virus, and clustering high throughput proteomics data to identify the wiring diagram of biological macromolecular assemblies. She is currently working on developing high quality datasets for training sophisticated machine learning algorithms to identify novel biological macromolecular assemblies, an important and challenging task in the field. In her spare time, she loves to teach competitive math through her non-profit organization.
 
 <p>
+-->
 
 
 <p class="message">
 <strong> Former Members: </strong>
 </p>
 
+<p>
+<strong>Vedanti Joshi</strong> - High School Student
+</p>
 <p>
 <strong>Eliza Stierle</strong> - Masters Student
 </p>
