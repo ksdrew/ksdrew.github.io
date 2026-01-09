@@ -47,10 +47,9 @@ Sam is a PhD student that joined the Drew Lab in March 2022. She received a Bach
 <strong>Andi Rosner</strong>
 </p>
 
-<img src="{{ site.url }}/images/andiRosner.jpg" width="20%" height="20%"/>
+<img src="{{ site.url }}/images/arosner_Headshot_20241217.png" width="20%" height="20%"/>
 <br>
-Andi Rosner (They/Them) joined the Drew Lab in the spring of 2023. They completed their undergrad at the University of Chicago with a Bachelor's of Arts in psychology, their Masters of Science in Biology at Illinois Institute of Technology.  Then back at Uchicago's Malamy Lab for 4 years of research on wound healing and signaling in the jellyfish clytia hemisphaerica. All while being a professional performer since 2010. 
-Andi is currently exploring proteomics in fungi, specifically candida auris.
+Andi Rosner (She/Her) joined the Drew Lab in the spring of 2023. She completed her undergrad at the University of Chicago with a Bachelor's of Arts in psychology, her Masters of Science in Biology at Illinois Institute of Technology. She now studies fungal pathogens' interactomes and proteomes using high-throughput proteomics.
 <p>
 
 
