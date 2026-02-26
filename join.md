@@ -4,9 +4,10 @@ title: Join Us
 ---
 
 <p class="message">
-	We're hiring! Come join us in Chicago! 
+	Come join us in Chicago! 
 </p>
 
+<!--
 <strong>Visiting Research Specialist (Lab Tech)</strong>
 <br>
 
@@ -38,6 +39,7 @@ Please email Kevin Drew (ksdrew
 Please apply <a href="https://jobs.uic.edu/job-board/job-details?jobID=147732&job=visiting-research-specialist-biological-sciences" target="_blank">here</a>.
 
 <p>
+-->
 
 <strong>Postdoctoral Fellow</strong>
 <br>
