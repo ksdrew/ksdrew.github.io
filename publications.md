@@ -11,6 +11,16 @@ title: Publications
 <h3 id="Lead"><u>Lead Publications</u></h3>
 
 <p>
+<a href="https://link.springer.com/article/10.1038/s44320-026-00198-6" target='_blank'>
+Proteome-wide AlphaFold pool party (News & Views)
+</a>
+<br>
+<strong>Kevin Drew</strong>
+<br>
+Molecular Systems Biology 2026
+</p>
+
+<p>
 <a href="https://www.biorxiv.org/content/10.1101/2025.07.17.665435" target='_blank'>
 DirectContacts2: A network of direct physical protein interactions derived from high-throughput mass spectrometry experiments
 </a>
