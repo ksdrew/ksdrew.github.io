@@ -189,6 +189,16 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 <h3 id="Additional"><u>Additional Publications</u></h3>
 
 <p>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.26.595818v2" target='_blank'>
+A protein interactome for the last eukaryotic common ancestor illuminates the biochemical basis of modern genetic diseases
+</a>
+<br>
+Rachael M. Cox, Ophelia Papoulas, Shirlee Shril, Chanjae Lee, Tynan Gardner, Anna M. Battenhouse, Muyoung Lee, <strong>Kevin Drew</strong>, Claire D. McWhite, David Yang, Janelle C. Leggere, Dannie Durand, Friedhelm Hildebrandt, John B. Wallingford, Edward M. Marcotte
+<br>
+Cell Genomics, 2026
+</p>
+
+<p>
 <a href="https://www.nature.com/articles/s41467-025-61005-8" target='_blank'>
 The human ciliopathy protein RSG1 links the CPLANE complex to transition zone architecture
 </a>
@@ -206,16 +216,6 @@ Complex portal 2025: predicted human complexes and enhanced visualisation tools 
 Sucharitha Balu, Susie Huget, Juan Jose Medina Reyes, Eliot Ragueneau, Kalpana Panneerselvam, <strong>Samantha N Fischer</strong>, <strong>Erin R Claussen</strong>, Savvas Kourtis, Colin W Combe, Birgit H M Meldal, Livia Perfetto, Juri Rappsilber, Georg Kustatscher, <strong>Kevin Drew</strong>, Sandra Orchard, Henning Hermjakob
 <br>
 Nucleic Acid Research, 2024
-</p>
-
-<p>
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.26.595818v1" target='_blank'>
-Ancient eukaryotic protein interactions illuminate modern genetic traits and disorders
-</a>
-<br>
-Rachael M. Cox, Ophelia Papoulas, Shirlee Shril, Chanjae Lee, Tynan Gardner, Anna M. Battenhouse, Muyoung Lee, <strong>Kevin Drew</strong>, Claire D. McWhite, David Yang, Janelle C. Leggere, Dannie Durand, Friedhelm Hildebrandt, John B. Wallingford, Edward M. Marcotte
-<br>
-BioRxiv, 2024
 </p>
 
 <p>
