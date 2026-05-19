@@ -41,6 +41,7 @@ Please apply <a href="https://jobs.uic.edu/job-board/job-details?jobID=147732&jo
 <p>
 -->
 
+<!--
 <strong>Postdoctoral Fellow</strong>
 <br>
 
@@ -53,10 +54,11 @@ Please email Kevin Drew (ksdrew
 <br>
 
 <p>
+-->
 
 <strong>Graduate Students</strong>
 <br>
-We accept rotation students from the MCDBN Graduate Program. Please email Kevin Drew (ksdrew
+We accept rotation students from the MCDB and ABC Graduate Programs. Details can be found <a href="https://bios.uic.edu/academics/graduate-studies/" target="_blank">here</a>. Please email Kevin Drew (ksdrew
 <span style="display: none;">REMOVE_REMOVE</span>
 @uic.edu) if interested in a rotation. 
 
