@@ -21,13 +21,13 @@ Molecular Systems Biology 2026
 </p>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2025.07.17.665435" target='_blank'>
+<a href="https://www.nature.com/articles/s41467-026-75863-3" target='_blank'>
 DirectContacts2: A network of direct physical protein interactions derived from high-throughput mass spectrometry experiments
 </a>
 <br>
 <strong>Erin R Claussen</strong>, <strong>Miles D Woodcock-Girard</strong>, <strong>Samantha N Fischer</strong>, <strong>Kevin Drew</strong>
 <br>
-BioRxiv 2025
+Nature Communications 2026
 </p>
 
 <p>
