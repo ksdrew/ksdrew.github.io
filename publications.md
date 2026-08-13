@@ -189,7 +189,7 @@ Masters Dissertation, Tech-Report TR-2005-12, University of Chicago. April 10, 2
 <h3 id="Additional"><u>Additional Publications</u></h3>
 
 <p>
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.26.595818v2" target='_blank'>
+<a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(26)00116-3" target='_blank'>
 A protein interactome for the last eukaryotic common ancestor illuminates the biochemical basis of modern genetic diseases
 </a>
 <br>
